@@ -12,7 +12,7 @@ To cite this work please use:
   author={Gerardo Flores and Micky Rakotondrabe},
   journal={IEEE Control Systems Letters},
   title={Dahl hysteresis modeling and position control of piezoelectric digital manipulator}, 
-  year={2022}
+  year={2023}
   }
   </code>
 </pre>
