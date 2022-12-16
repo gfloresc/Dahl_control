@@ -2,7 +2,7 @@
 Supplementary material for the paper: Dahl hysteresis modeling and position control of piezoelectric digital manipulator
 
 This repository includes the MATLAB simulink files for the simulations results presented in the document
-<a href="https://github.com/gfloresc/Dahl_control/blob/main/Supp%20Material.pdf">Supplementary Material.pdf</a>
+<a href="https://github.com/gfloresc/Dahl_control/blob/main/Supplementary_material.pdf">Supplementary Material.pdf</a>
 
 To cite this work please use:
 
